@@ -49,7 +49,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    bash
-   git clone https://github.com/yourusername/PowerBI-HealthcareInsights.git
+   git clone https://github.com/Jeevitha926/PowerBI-HealthcareInsights.git
    
 
 2. Open the Power BI Desktop application.
