@@ -62,6 +62,10 @@ To run this project locally, follow these steps:
 
 After setting up the project, you can interact with the dashboards to explore various healthcare metrics. Use the filters and visualizations to gain insights into specific areas of interest.
 
+## Conclusion
+The U.S. Healthcare Industry Dynamics project for 2019-2020 offers a comprehensive and insightful analysis of the healthcare landscape, utilizing advanced data analytics and visualization tools. Through meticulous data cleaning, DAX calculations, and interactive visualizations, this project provides valuable insights and strategic intelligence for healthcare stakeholders.
+
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or new features, please create an issue or submit a pull request.
