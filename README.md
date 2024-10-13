@@ -43,6 +43,11 @@ The analysis employs the following techniques:
 - Trends in payer-provider relationships and how they affect healthcare delivery.
 - Recommendations for stakeholders to enhance decision-making processes based on data-driven insights.
 
+
+## Hospital Insights
+![image](https://github.com/user-attachments/assets/57cb710e-71cd-44f3-9904-23e6caa3ff5b)
+
+
 ## Setup Instructions
 
 To run this project locally, follow these steps:
